@@ -1,0 +1,7 @@
+{
+  "name": "PHP API",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace/api",
+  "forwardPorts": [8000]
+}
